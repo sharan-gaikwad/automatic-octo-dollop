@@ -1,0 +1,7 @@
+.content{
+border: solid 1px red;
+background-color: green;
+width: 100px;
+height: 125px;
+display: inline-block;
+}
